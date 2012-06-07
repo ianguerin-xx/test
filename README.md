@@ -31,7 +31,7 @@ for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasm
 ####Most Recent Build:
 
 ####Test Results Graph:
-![Deckard2 Test Results Graph](http://build.plumlabs.us:8080/jenkins/job/Deckard2%20-%20DEV%20-%20Continuous%20(Pipeline%20Start\)/test/trend "Test Results Graph")
+![Deckard2 Test Results Graph](http://build.plumlabs.us:8080/jenkins/job/Deckard2%20-%20DEV%20-%20Continuous%20(Pipeline%20Start)/test/trend "http://build.plumlabs.us:8080/jenkins/job/Deckard2%20-%20DEV%20-%20Continuous%20(Pipeline%20Start)/test/trend")
 
 
 
