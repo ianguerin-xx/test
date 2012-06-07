@@ -31,7 +31,7 @@ for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasm
 ####Most Recent Build:
 
 ####Test Results Graph:
-[1]: http://build.plumlabs.us:8080/jenkins/user/ianguerin/my-views/view/All/job/Deckard2%20-%20DEV%20-%20Continuous%20(Pipeline%20Start)/test/trend
+[1]: http://build.plumlabs.us:8080/jenkins/user/ianguerin/my-views/view/All/job/Deckard2%20-%20DEV%20-%20Continuous%20(Pipeline%20Start)/test/trend.png
 [2]: http://scottnesbitt.net/ubuntublog/wp-content/uploads/2008/01/emacs_markdown.png
-![alt text][2]
+![alt text][1]
 
