@@ -1,4 +1,38 @@
-test
-====
+Deckard + Backbone and RequireJS
 
-this is just a test
+Check out blog post on this here:
+
+http://plumlabs.us:81/blogs/show/19
+
+
+Now running on nodejs + express, powered by Roy (https://github.com/Valassis-Digital-Media/Roy)!
+
+###To get running:
+
+1. Get latest on Deckard2, Kilgore, & Roy. Put all three in ~/code/. So ~/code/Deckard2, ~/code/Roy, etc..
+2. Install dependencies for all three (cd ~/code/Deckard2/ && npm install -d, etc..)
+3. Install redis (I found Home Brew to be helpful, Mac Ports not so much..). With brew: 'brew install redis'
+4. Start redis (with launchpad or manually).
+5. Run the shell script ~/code/Deckard2/sh/restart-local-deckard.sh).
+6. Go to Roy (http://localhost:3002/) and add an instance (Config must be in format of what Deckard2 expects).
+7. Click 'view' next to the instance you just added.
+
+To optimize (minify/uglify js):
+
+1. Run the optimizer.sh script (~/code/Deckard2/sh/optimizer.sh). The optimizer requires the RequireJS package, which can be easily installed using NPM. Make sure the optimizer (r.js) is in your PATH.
+
+To run BDD tests:
+http://localhost:3000/scripts/apps/mildred-grid/tests/specRunner.html
+http://localhost:3000/scripts/apps/facebook/tests/specRunner.html
+http://localhost:3000/scripts/apps/mildred-single-column/tests/specRunner.html
+http://localhost:3000/scripts/apps/mildred-next/tests/specRunner.html
+http://localhost:3000/scripts/apps/mildred-classic/tests/specRunner.html
+http://localhost:3000/scripts/apps/mildred-circle/tests/specRunner.html
+http://localhost:3000/scripts/apps/mildred-mobile/tests/specRunner.html
+http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html
+for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasmmine.js from jasmine.HtmlReporter() to jasmine.TrivialReporter()
+
+
+
+
+
