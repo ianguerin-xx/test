@@ -1,13 +1,11 @@
-Deckard + Backbone and RequireJS
+###Deckard + Backbone and RequireJS
 
-Check out blog post on this here:
-
-http://plumlabs.us:81/blogs/show/19
+Check out blog post on this [here](http://plumlabs.us:81/blogs/show/19)
 
 
 Now running on nodejs + express, powered by Roy (https://github.com/Valassis-Digital-Media/Roy)!
 
-###To get running:
+####To get running:
 
 1. Get latest on Deckard2, Kilgore, & Roy. Put all three in ~/code/. So ~/code/Deckard2, ~/code/Roy, etc..
 2. Install dependencies for all three (cd ~/code/Deckard2/ && npm install -d, etc..)
@@ -17,7 +15,7 @@ Now running on nodejs + express, powered by Roy (https://github.com/Valassis-Dig
 6. Go to Roy (http://localhost:3002/) and add an instance (Config must be in format of what Deckard2 expects).
 7. Click 'view' next to the instance you just added.
 
-To optimize (minify/uglify js):
+####To optimize (minify/uglify js):
 
 1. Run the optimizer.sh script (~/code/Deckard2/sh/optimizer.sh). The optimizer requires the RequireJS package, which can be easily installed using NPM. Make sure the optimizer (r.js) is in your PATH.
 
