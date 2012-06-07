@@ -29,10 +29,10 @@ To run BDD tests:
 for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasmine.js from jasmine.HtmlReporter() to jasmine.TrivialReporter()
 
 ####Most Recent Build 
-+ #####Polling Log:
+#####+ Polling Log:
 [d2Poll]: http://build.plumlabs.us:8080/jenkins/job/Deckard2%20-%20DEV%20-%20Continuous%20(Pipeline%20Start)/lastBuild/pollingLog/pollingLog "Polling Log"
 [Deckard2 Polling Log][d2Poll]
-+ #####Test Results Graph:
+##### + Test Results Graph:
 [d2Graph]: http://build.plumlabs.us:8080/jenkins/job/Deckard2%20-%20DEV%20-%20Continuous%20(Pipeline%20Start)/test/trend "Test Results Graph"
 [Deckard2 Test Results Graph][d2Graph]
 ![d2trg link][d2Graph]
