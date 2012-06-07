@@ -31,6 +31,6 @@ for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasm
 ####Most Recent Build:
 
 ####Test Results Graph:
-![alt text][1]
-[working with parens](http://build.plumlabs.us:8080/jenkins/user/ianguerin/my-views/view/All/job/Deckard2%20-%20DEV%20-%20Continuous%20%28Pipeline%20Start%29/test/trend "parens")
+[1]:http://build.plumlabs.us:8080/jenkins/user/ianguerin/my-views/view/All/job/Deckard2%20-%20DEV%20-%20Continuous%20%28Pipeline%20Start%29/test/trend
+[working with parens][1]
 
