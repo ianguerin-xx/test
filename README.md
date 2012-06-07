@@ -26,13 +26,13 @@ To run BDD tests:
 [mildred-mobile](http://localhost:3000/scripts/apps/mildred-mobile/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-mobile/tests/specRunner.html")  
 [mildred-savedotcom](http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html")
 
-for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasmmine.js from jasmine.HtmlReporter() to jasmine.TrivialReporter()
+for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasmine.js from jasmine.HtmlReporter() to jasmine.TrivialReporter()
 
 ####Most Recent Build:
 
 ####Test Results Graph:
 [d2Graph]: http://build.plumlabs.us:8080/jenkins/user/ianguerin/my-views/view/All/job/Deckard2%20-%20DEV%20-%20Continuous%20(Pipeline%20Start)/test/trend "Test Results Graph"
-<img src="http://build.plumlabs.us:8080/jenkins/user/ianguerin/my-views/view/All/job/Deckard2%20-%20DEV%20-%20Continuous%20%28Pipeline%20Start%29/test/trend" />
+<img src="http://build.plumlabs.us:8080/jenkins/job/Deckard2%20-%20DEV%20-%20Continuous%20(Pipeline%20Start)/test/trend" />
 [d2trg link][d2Graph]
 ![d2trg link][d2Graph]
 
