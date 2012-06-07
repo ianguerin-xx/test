@@ -5,7 +5,6 @@ Check out blog post on this [here](http://plumlabs.us:81/blogs/show/19 "http://p
 Now running on nodejs + express, powered by [Roy](https://github.com/Valassis-Digital-Media/Roy "https://github.com/Valassis-Digital-Media/Roy")!
 
 ####To get running:
-
 1. Get latest on Deckard2, Kilgore, & Roy. Put all three in ~/code/. So ~/code/Deckard2, ~/code/Roy, etc..
 2. Install dependencies for all three (cd ~/code/Deckard2/ && npm install -d, etc..)
 3. Install redis (I found Home Brew to be helpful, Mac Ports not so much..). With brew: 'brew install redis'
@@ -15,7 +14,6 @@ Now running on nodejs + express, powered by [Roy](https://github.com/Valassis-Di
 7. Click 'view' next to the instance you just added.
 
 ####To optimize (minify/uglify js):
-
 1. Run the optimizer.sh script (~/code/Deckard2/sh/optimizer.sh). The optimizer requires the RequireJS package, which can be easily installed using NPM. Make sure the optimizer (r.js) is in your PATH.
 
 To run BDD tests:  
@@ -32,6 +30,8 @@ for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasm
 
 ####Most Recent Build:
 
+####Test Results Graph:
+![Deckard2 Test Results Graph](http://build.plumlabs.us:8080/jenkins/job/Deckard2%20-%20DEV%20-%20Continuous%20(Pipeline%20Start\)/test/trend "Test Results Graph")
 
 
 
