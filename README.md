@@ -2,8 +2,7 @@
 
 Check out blog post on this [here](http://plumlabs.us:81/blogs/show/19 "http://plumlabs.us:81/blogs/show/19")
 
-
-Now running on nodejs + express, powered by Roy (https://github.com/Valassis-Digital-Media/Roy)!
+Now running on nodejs + express, powered by [Roy](https://github.com/Valassis-Digital-Media/Roy "https://github.com/Valassis-Digital-Media/Roy")!
 
 ####To get running:
 
@@ -27,8 +26,12 @@ To run BDD tests:
 [mildred-classic](http://localhost:3000/scripts/apps/mildred-classic/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-classic/tests/specRunner.html")  
 [mildred-circle](http://localhost:3000/scripts/apps/mildred-circle/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-circle/tests/specRunner.html")  
 [mildred-mobile](http://localhost:3000/scripts/apps/mildred-mobile/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-mobile/tests/specRunner.html")  
-[mildred-savedotcom](http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html")    
+[mildred-savedotcom](http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html")
+
 for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasmmine.js from jasmine.HtmlReporter() to jasmine.TrivialReporter()
+
+####Most Recent Build:
+
 
 
 
