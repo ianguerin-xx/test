@@ -19,15 +19,15 @@ Now running on nodejs + express, powered by Roy (https://github.com/Valassis-Dig
 
 1. Run the optimizer.sh script (~/code/Deckard2/sh/optimizer.sh). The optimizer requires the RequireJS package, which can be easily installed using NPM. Make sure the optimizer (r.js) is in your PATH.
 
-To run BDD tests:
-http://localhost:3000/scripts/apps/mildred-grid/tests/specRunner.html
-http://localhost:3000/scripts/apps/facebook/tests/specRunner.html
-http://localhost:3000/scripts/apps/mildred-single-column/tests/specRunner.html
-http://localhost:3000/scripts/apps/mildred-next/tests/specRunner.html
-http://localhost:3000/scripts/apps/mildred-classic/tests/specRunner.html
-http://localhost:3000/scripts/apps/mildred-circle/tests/specRunner.html
-http://localhost:3000/scripts/apps/mildred-mobile/tests/specRunner.html
-http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html
+To run BDD tests:  
+[](http://localhost:3000/scripts/apps/mildred-grid/tests/specRunner.html)
+[](http://localhost:3000/scripts/apps/facebook/tests/specRunner.html)
+[](http://localhost:3000/scripts/apps/mildred-single-column/tests/specRunner.html)
+[](http://localhost:3000/scripts/apps/mildred-next/tests/specRunner.html)
+[](http://localhost:3000/scripts/apps/mildred-classic/tests/specRunner.html)
+[](http://localhost:3000/scripts/apps/mildred-circle/tests/specRunner.html)
+[](http://localhost:3000/scripts/apps/mildred-mobile/tests/specRunner.html)
+[](http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html)  
 for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasmmine.js from jasmine.HtmlReporter() to jasmine.TrivialReporter()
 
 
