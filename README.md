@@ -33,7 +33,7 @@ for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasm
 ####Test Results Graph:
 ![linkage](http://build.plumlabs.us:8080/jenkins/user/ianguerin/my-views/view/All/job/Deckard2%20-%20DEV%20-%20Continuous%20%28Pipeline%20Start%29/test/trend)
 
-[<img src="http://build.plumlabs.us:8080/jenkins/user/ianguerin/my-views/view/All/job/Deckard2%20-%20DEV%20-%20Continuous%20(Pipeline%20Start)/test/trend">](http://google.com.au/)
+[<img src="http://build.plumlabs.us:8080/jenkins/user/ianguerin/my\-views/view/All/job/Deckard2%20\-%20DEV%20\-%20Continuous%20\(Pipeline%20Start\)/test/trend">](http://google.com.au/)
 
 
 
