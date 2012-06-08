@@ -17,14 +17,14 @@ Now running on nodejs + express, powered by [Roy](https://github.com/Valassis-Di
 1. Run the optimizer.sh script (~/code/Deckard2/sh/optimizer.sh). The optimizer requires the RequireJS package, which can be easily installed using NPM. Make sure the optimizer (r.js) is in your PATH.
 
 #####To run BDD tests:
-[mildred-grid](http://localhost:3000/scripts/apps/mildred-grid/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-grid/tests/specRunner.html")  
-[facebook](http://localhost:3000/scripts/apps/facebook/tests/specRunner.html "http://localhost:3000/scripts/apps/facebook/tests/specRunner.html")  
-[mildred-single-column](http://localhost:3000/scripts/apps/mildred-single-column/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-single-column/tests/specRunner.html")  
-[mildred-next](http://localhost:3000/scripts/apps/mildred-next/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-next/tests/specRunner.html")  
-[mildred-classic](http://localhost:3000/scripts/apps/mildred-classic/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-classic/tests/specRunner.html")  
-[mildred-circle](http://localhost:3000/scripts/apps/mildred-circle/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-circle/tests/specRunner.html")  
-[mildred-mobile](http://localhost:3000/scripts/apps/mildred-mobile/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-mobile/tests/specRunner.html")  
-[mildred-savedotcom](http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html")
+- [mildred-grid](http://localhost:3000/scripts/apps/mildred-grid/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-grid/tests/specRunner.html")
+- [facebook](http://localhost:3000/scripts/apps/facebook/tests/specRunner.html "http://localhost:3000/scripts/apps/facebook/tests/specRunner.html")
+- [mildred-single-column](http://localhost:3000/scripts/apps/mildred-single-column/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-single-column/tests/specRunner.html")
+- [mildred-next](http://localhost:3000/scripts/apps/mildred-next/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-next/tests/specRunner.html")
+- [mildred-classic](http://localhost:3000/scripts/apps/mildred-classic/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-classic/tests/specRunner.html")
+- [mildred-circle](http://localhost:3000/scripts/apps/mildred-circle/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-circle/tests/specRunner.html")
+- [mildred-mobile](http://localhost:3000/scripts/apps/mildred-mobile/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-mobile/tests/specRunner.html")
+- [mildred-savedotcom](http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html")
 
 for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasmine.js from jasmine.HtmlReporter() to jasmine.TrivialReporter()
 
