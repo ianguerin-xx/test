@@ -33,6 +33,5 @@ Now running on nodejs + express, powered by [Roy](https://github.com/Valassis-Di
 [d2Graph]: http://build.plumlabs.us:8080/jenkins/job/Deckard2%20-%20DEV%20-%20Continuous%20(Pipeline%20Start)/test/trend "Test Results Graph"
 - [Deckard2 Polling Log][d2Poll]
 - [Deckard2 Test Results Graph][d2Graph]
-![d2trg link][d2Graph]
 
 
