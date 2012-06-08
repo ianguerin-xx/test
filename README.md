@@ -1,13 +1,4 @@
-###Kilgore!
+**The light that burns twice as bright burns for half as long - and you have burned so very, very brightly, Roy.**
 
-Install deps with 'npm install -d' in the root of the project.
-
-Checkout the API with the [API Explorer](http://localhost:3001/api-explorer/ "http://localhost:3001/api-explorer/")
-
-####Testing Kilgore:
-1. cd ~/code/Kilgore/tests
-2. node specrunner.js
-
-####To run a subset of tests:
-1. node specrunner.js --dir=/some/dir
-2. example: node specrunner.js --dir=/routes/api/users
+###Roy is the self service portal for Deckard2 instances. 
+####More info on how to use Roy can be found in the [Deckard2 README](https://github.com/Valassis-Digital-Media/Deckard2/blob/master/README "https://github.com/Valassis-Digital-Media/Deckard2/blob/master/README")
