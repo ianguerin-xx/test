@@ -26,7 +26,7 @@ Now running on nodejs + express, powered by [Roy](https://github.com/Valassis-Di
 - [mildred-mobile](http://localhost:3000/scripts/apps/mildred-mobile/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-mobile/tests/specRunner.html")
 - [mildred-savedotcom](http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html "http://localhost:3000/scripts/apps/mildred-savedotcom/tests/specRunner.html")
 
-for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasmine.js from jasmine.HtmlReporter() to jasmine.TrivialReporter()
+######for detailed reporting change line 6 of \Deckard2\public\scripts\core\tests\jasmine.js from jasmine.HtmlReporter() to jasmine.TrivialReporter()
 
 ####Most Recent Build
 [d2Poll]: http://build.plumlabs.us:8080/jenkins/job/Deckard2%20-%20DEV%20-%20Continuous%20(Pipeline%20Start)/lastBuild/pollingLog "Polling Log"
